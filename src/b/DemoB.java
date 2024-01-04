@@ -24,11 +24,11 @@ public class DemoB {
 		case "Thursday":
 			result = "Tutoring Session";
 			break;
-		case "Saterday":
+		case "Saturday":
 			result = "Java Fun Day";
 			break;
 		default:
-			result = " Wrong Imput";
+			result = " Wrong Input";
 		}
 			System.out.println(result);
 		
