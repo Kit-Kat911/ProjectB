@@ -33,6 +33,8 @@ public class DemoB {
 			System.out.println(result);
 		
 	}
+	Sysout
+	
 	}
 
 
